@@ -26,7 +26,7 @@ To deploy and use this project, ensure the following are set up:
 Clone the project to your local environment:  
 
 ```console
-git clone https://github.com/RPTechs/Lists_CustomCard.git
+git clone https://github.com/RPTechs/AssociationTable_CustomCard/
 ```
 
 Navigate to the project folder:
